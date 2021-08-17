@@ -1,0 +1,1 @@
+# szenzora_sw_nrf51
